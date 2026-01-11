@@ -1,3 +1,7 @@
-# Logs
+# Authentication Logs
 
-Collected and analyzed log files used during the investigation.
+This folder contains authentication-related logs generated from the Windows-Auth-Lab virtual machine.
+
+Events include:
+- Failed login attempts
+- Successful login events
